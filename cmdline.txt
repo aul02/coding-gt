@@ -1,0 +1,4 @@
+CHKDSK = untuk memeriksa kondisi harddisk
+DXDIAX = untuk melihat informasi spesifikasi komputer
+PING = untuk memeriksa koneksi internet ke suatu website atau alamat IP
+AXIT 
